@@ -1,0 +1,1 @@
+This file I created from VS code in local for stage and commit examples
